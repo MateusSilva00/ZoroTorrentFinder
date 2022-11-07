@@ -1,0 +1,4 @@
+pip-tools
+loguru
+beautifulSoup4
+unidecode
